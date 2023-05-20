@@ -1,0 +1,6 @@
+git init---->This will place the working directory linked to the github
+git status-->check the status of the git compare with local system
+git add names.txt-->This will push the changes to the staging area
+git commit -m "names.txt"--->This command will commit the txt file 
+git log----> This command will log the git commit changes
+git stash--->
